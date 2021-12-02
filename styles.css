@@ -5,7 +5,8 @@
 .page {
   background: #f3f3f3;
   box-shadow: 0 4px 8px 0 rgb(0,0,0, 0.2);
-  width: 5 in;
-  height: 16 in;
-  align: center;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  border: 1px red solid;
 }
