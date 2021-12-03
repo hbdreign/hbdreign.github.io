@@ -186,5 +186,6 @@ font-family: 'EB Garamond', serif;
 
 .download {
 	width: 70px;
+	max-width: 50%;
 	height: auto;
 }
