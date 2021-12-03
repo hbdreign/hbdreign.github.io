@@ -185,6 +185,6 @@ font-family: 'EB Garamond', serif;
 .product-image:hover img {transform: scale(1.2, 1.2);}
 
 .download {
-	width: 30%;
-	height: 30%;
+	width: 50;
+	height: 50;
 }
